@@ -1,0 +1,2 @@
+# Estego
+script de esteganografia
